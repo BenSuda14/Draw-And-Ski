@@ -1,4 +1,4 @@
--- SkiEffects LocalScript
+-- SkiEffects LocalScript in Luau
 local Players          = game:GetService("Players")
 local RunService       = game:GetService("RunService")
 local TweenService     = game:GetService("TweenService")
