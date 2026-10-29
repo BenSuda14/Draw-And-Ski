@@ -40,5 +40,3 @@ These scripts reference objects and other systems from the full game, so they wo
 - **Jumping obstacles:** brushing a log while airborne doesn't count as a crash, so you can jump over obstacles cleanly.
 
 File naming follows the [Rojo](https://rojo.space) convention: `.client.luau` = LocalScript, `.luau` = ModuleScript.
-
-See [`docs/PROGRESS.md`](docs/PROGRESS.md) for the development log.
