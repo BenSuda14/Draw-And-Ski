@@ -2,7 +2,9 @@
 
 A Roblox skiing game where you **draw your own skis** on a grid, launch down a three-zone mountain, dodge obstacles, and land tricks.
 
-Written in **Luau**. This repo holds a selection of the game's scripts as a showcase. The full game is developed in Roblox Studio.
+Written in **Luau**. This repo holds a selection of a few of the game's important scripts as a showcase. 
+I didn't want to post all of them for some security reasons and originality purposes.
+The full game is developed in Roblox Studio.
 
 ## How the game plays
 
